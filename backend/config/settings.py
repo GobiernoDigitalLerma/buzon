@@ -82,9 +82,10 @@ WSGI_APPLICATION = 'config.wsgi.application'
 #EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'dragon.31950@gmail.com'
-EMAIL_HOST_PASSWORD = 'rgqu mcyd vsqv tyuf'
+EMAIL_HOST_USER = 'emai'
+EMAIL_HOST_PASSWORD = 'contraseeña'
 EMAIL_PORT = 587
+
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # Dirección del frontend
